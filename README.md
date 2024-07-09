@@ -7,7 +7,7 @@
 I'm a software developer with a passion for building web applications, contributing to open-source projects, and exploring new technologies.
 
 -   🌱 I’m currently learning **NextJS**
--   👯 I’m looking to collaborate on **[Project or Type of Projects]**
+-   👯 I’m looking to collaborate on **ECommerce project**
 -   🤔 I’m looking for help with **[Area where you need help]**
 -   💬 Ask me about **[Topics you are interested in]**
 -   📫 How to reach me: **[Your email or other contact information]**
