@@ -8,7 +8,7 @@ I'm a software developer with a passion for building web applications, contribut
 
 -   🌱 I’m currently learning **NextJS**
 -   👯 I’m looking to collaborate on **ECommerce project**
--   🤔 I’m looking for help with **[Area where you need help]**
+-   🤔 I’m looking for help with **UI design**
 -   💬 Ask me about **[Topics you are interested in]**
 -   📫 How to reach me: **[Your email or other contact information]**
 -   ⚡ Fun fact: **[Fun fact about you]**
