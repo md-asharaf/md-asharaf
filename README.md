@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/md-asharaf?logo=github&style=for-th
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/md-asharaf" target="blank"><img align="center" src="https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg" alt="iruka" height="30" width="40"></a>
-<a href="https://www.instagram.com/_md_asharaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/md-asharaf/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iruka" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_md_asharaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iruka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -121,9 +121,6 @@ src="https://img.shields.io/github/followers/md-asharaf?logo=github&style=for-th
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="PostgreSQL" />
       <br>CloudFlare
-    </td>
-      <br>Java
-    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
@@ -167,7 +164,5 @@ src="https://img.shields.io/github/followers/md-asharaf?logo=github&style=for-th
   <br/>
 </a>
 <br><br>
-<img height="30" alt="visiting me thank iruka" width="100%" src="gif/welcome.svg" />
-
 
 <img src="https://raw.githubusercontent.com/md-asharaf/md-asharaf/main/gif/line-neon.gif" width="100%"> 
