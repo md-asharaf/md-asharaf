@@ -54,10 +54,6 @@ src="https://img.shields.io/github/followers/md-asharaf?logo=github&style=for-th
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
       <br>MySQL
     </td>
@@ -70,14 +66,11 @@ src="https://img.shields.io/github/followers/md-asharaf?logo=github&style=for-th
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
-      <br>C#
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
+      <br>Java
     </td>
   </tr>
   <tr>
-  <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
-      <br>Django
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
@@ -87,28 +80,28 @@ src="https://img.shields.io/github/followers/md-asharaf?logo=github&style=for-th
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      <br>CSS
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="css" />
+      <br>TailwindCSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
-      <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="bootstrap" />
+      <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" />
-      <br>Android
+        <img src="https://skillicons.dev/icons?i=next"width="40" height="40" alt="jQuery" />
+      <br>Next
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
-      <br>jQuery
+        <img src="https://skillicons.dev/icons?i=bun"width="40" height="40" alt="jQuery" />
+      <br>Bun
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express"width="40" height="40" alt="jQuery" />
+      <br>Express
     </td>
   </tr>
  <tr>
@@ -121,34 +114,31 @@ src="https://img.shields.io/github/followers/md-asharaf?logo=github&style=for-th
       <br>Nodejs
       </td>
       </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
-      <br>PHP
-    </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
+        <img src="https://skillicons.dev/icons?i=arch" width="40" height="40" alt="VsCode" />
+      <br>Arch
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
-      <br>WordPress
+        <img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="PostgreSQL" />
+      <br>CloudFlare
     </td>
-              <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="Vue" />
-      <br>Dotnet
-  <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
-      </a>
-      <br>SQLite
-    </td>
-              <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
       <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=appwrite" width="40" height="40" alt="tailwind" />
+      <br>Appwrite
+    </td>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="docker" />
+      <br>Docker
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman"width="40" height="40" alt="jQuery" />
+      <br>Postman
     </td>
  </tr>
 </table>
