@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **web development projects.**
 
-- 💬 Ask me about **C++, JAVA, JavaScript, HTML, TailwindCSS, PostgreSQL, AWS, Docker**
+- 💬 Ask me about **C++, Java, JavaScript, HTML, TailwindCSS, PostgreSQL, AWS, Docker**
 
 <a href="https://github.com/md-asharaf" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/md-asharaf?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
