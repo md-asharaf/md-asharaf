@@ -1,168 +1,124 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&height=18&width=340&vCenter=true&lines=Welcome+To+My+GITHUB+Profile..." > </h1>
+<div align="center">
 
-<p align="center"><img alt="Coding" width="80%" src="https://raw.githubusercontent.com/md-asharaf/md-asharaf/main/gif/hi1.gif"></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Md+Asharaf+👋;Full+Stack+Developer;TypeScript+%7C+Java+%7C+Go" alt="Typing SVG" />
 
-<h1 align="center">Hi 👋 there, I'm Md Asharaf</h1>
+<br>
 
-<p align="center">🚀 Welcome to my GitHub! I'm a passionate full-stack developer, and this is my digital playground where I bring ideas to life through code. Explore my repositories to witness my journey in crafting software solutions. Whether you're here to collaborate, learn, or just curious, feel free to browse around. Together, let's build and innovate! 🚀</p>
-
-<h3 align="center">📫 How to reach me:</h3>
-<p align="center">
-  <a href="mailto:718romanempire@gmail.com">718romanempire@gmail.com</a> |
-  <a href="https://www.leetcode.com/md-asharaf">Leetcode</a> |
-  <a href="https://linkedin.com/in/md-asharaf">LinkedIn</a>
+<p>
+  <a href="https://asharaf.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-asharaf.me-6E57F7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:mdasharaf.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-mdasharaf.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/md-asharaf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-md--asharaf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/md-asharaf" target="_blank"><img src="https://img.shields.io/badge/LeetCode-md--asharaf-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
-- 🌱 I’m currently learning **Rust, Kubernetes.**
+</div>
 
-- 🤝 I’m looking for help with **web development projects.**
+---
 
-- 💬 Ask me about **C++, Java, JavaScript, HTML, TailwindCSS, PostgreSQL, AWS, Docker**
+### 🧑‍💻 About Me
 
-<a href="https://github.com/md-asharaf" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/md-asharaf?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
+- 🔭 &nbsp;Full Stack Developer building production-grade web apps
+- 🌱 &nbsp;Currently diving deep into **System Design**
+- 💬 &nbsp;Ask me about **MERN, Spring Boot, Microservices, AWS, Docker**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/md-asharaf" target="blank"><img align="center" src="https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg" alt="iruka" height="30" width="40"></a>
-<a href="https://www.instagram.com/_md_asharaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iruka" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Tech Stack
 
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="120px"><strong>Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,java,go,python,php,cpp" /></td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,html" /></td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=express,nestjs,spring,nodejs,graphql" /></td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" /></td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & DevOps</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,kafka,linux,git,postman" /></td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub & Coding Stats
 <table>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
-      <br>React
+<tr>
+    <!-- LEFT COLUMN -->
+    <td width="50%" valign="top" style="padding-right: 10px;">
+      <!-- GitHub General Stats -->
+      <img 
+        src="https://github-stats-extended.vercel.app/api?username=md-asharaf&show_icons=true&count_private=true&theme=tokyonight&border_color=6E57F7&bg_color=0D1117&title_color=6E57F7&icon_color=F85D7F&include_all_commits=true&hide_border=false" 
+        style="width: 100%; margin-bottom: 15px;"
+      />
+      <br />
+      <!-- GitHub Top Languages -->
+      <img 
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-asharaf&layout=compact&theme=tokyonight&border_color=6E57F7&bg_color=0D1117&title_color=6E57F7&hide=html,css&langs_count=6" 
+        alt="Md Asharaf's Top Languages"
+        style="width: 100%;"
+      />
     </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org/">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
-      <br>Java
+    <!-- RIGHT COLUMN (Full Height) -->
+    <td width="50%" valign="center" style="padding-left: 10px;">
+      <!-- LeetCode Stats -->
+      <img 
+        src="https://leetcard.jacoblin.cool/md-asharaf?theme=dark&font=Fira%20Code&ext=contest" 
+        alt="Md Asharaf's LeetCode Stats"
+        style="width: 100%; height: auto;"
+      />
     </td>
   </tr>
+</table>
+
+<!-- Full Width Graphs Below -->
+<table width="100%" style="border-collapse: collapse;">
+  <!-- Snake Graph -->
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="css" />
-      <br>TailwindCSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="bootstrap" />
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=next"width="40" height="40" alt="jQuery" />
-      <br>Next
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bun"width="40" height="40" alt="jQuery" />
-      <br>Bun
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express"width="40" height="40" alt="jQuery" />
-      <br>Express
+    <td colspan="3" align="center" style="padding: 10px 0;">
+      <picture>
+        <source 
+          media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/md-asharaf/md-asharaf/output/github-snake-dark.svg" 
+        />
+        <source 
+          media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/md-asharaf/md-asharaf/output/github-snake.svg" 
+        />
+        <img 
+          alt="GitHub Contribution Snake" 
+          src="https://raw.githubusercontent.com/md-asharaf/md-asharaf/output/github-snake-dark.svg" 
+          width="100%"
+        />
+      </picture>
     </td>
   </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
+  <!-- Isometric Graph -->
+  <tr>
+    <td colspan="3" align="center" style="padding: 10px 0;">
+      <img 
+        src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=md-asharaf&theme=dark&stats=true" 
+        width="100%" 
+        alt="3D Isometric Contribution Graph" 
+      />
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=arch" width="40" height="40" alt="VsCode" />
-      <br>Arch
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="PostgreSQL" />
-      <br>CloudFlare
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=appwrite" width="40" height="40" alt="tailwind" />
-      <br>Appwrite
-    </td>
-  <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="docker" />
-      <br>Docker
-    </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman"width="40" height="40" alt="jQuery" />
-      <br>Postman
-    </td>
- </tr>
-</table>
-<br><br>
+  </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/md-asharaf/md-asharaf/main/gif/wline.gif?raw=true">
+---
 
-<b>My GitHub Stats</b>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/md-asharaf">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-asharaf&theme=radical&border=7F3FBF&background=0D1117" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=md-asharaf&color=6E57F7&style=for-the-badge&label=PROFILE+VIEWS" />
+<a href="https://github.com/md-asharaf"><img src="https://img.shields.io/github/followers/md-asharaf?logo=github&style=for-the-badge&color=6E57F7&labelColor=0D1117" /></a>
 
-<p align="center">
-  <a href="https://github.com/md-asharaf">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-asharaf&theme=radical" />
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/md-asharaf"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=md-asharaf&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/md-asharaf"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=md-asharaf&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-<br><br>
-
-<img src="https://raw.githubusercontent.com/md-asharaf/md-asharaf/main/gif/line-neon.gif" width="100%"> 
+</div>
