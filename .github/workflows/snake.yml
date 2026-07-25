@@ -2,16 +2,33 @@ name: Generate Snake
 
 on:
   schedule:
+    # Runs every 24 hours at midnight UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  generate: # (It's common to rename 'build' to 'generate' to reflect the task)
     runs-on: ubuntu-latest
+    timeout-minutes: 10 # Adding a timeout is a good safety practice
+    
     steps:
-      - uses: Platane/snk@v3
+      # Step 1: Generates the snake game SVGs from your contribution graph
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: md-asharaf
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # Step 2 (MISSING IN YOUR ORIGINAL): Push the generated files to a dedicated branch
+      # This step makes the images accessible for your README.
+      - name: Push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output # Images will live on a new 'output' branch
+          build_dir: dist # We push the contents of the 'dist' folder
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
