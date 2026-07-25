@@ -50,36 +50,6 @@
 
 ---
 
-### 📊 GitHub & Coding Stats
-<table>
-<tr>
-    <!-- LEFT COLUMN -->
-    <td width="50%" valign="top" style="padding-right: 10px;">
-      <!-- GitHub General Stats -->
-      <img 
-        src="https://github-stats-extended.vercel.app/api?username=md-asharaf&show_icons=true&count_private=true&theme=tokyonight&border_color=6E57F7&bg_color=0D1117&title_color=6E57F7&icon_color=F85D7F&include_all_commits=true&hide_border=false" 
-        style="width: 100%; margin-bottom: 15px;"
-      />
-      <br />
-      <!-- GitHub Top Languages -->
-      <img 
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-asharaf&layout=compact&theme=tokyonight&border_color=6E57F7&bg_color=0D1117&title_color=6E57F7&hide=html,css&langs_count=6" 
-        alt="Md Asharaf's Top Languages"
-        style="width: 100%;"
-      />
-    </td>
-    <!-- RIGHT COLUMN (Full Height) -->
-    <td width="50%" valign="center" style="padding-left: 10px;">
-      <!-- LeetCode Stats -->
-      <img 
-        src="https://leetcard.jacoblin.cool/md-asharaf?theme=dark&font=Fira%20Code&ext=contest" 
-        alt="Md Asharaf's LeetCode Stats"
-        style="width: 100%; height: auto;"
-      />
-    </td>
-  </tr>
-</table>
-
 <!-- Full Width Graphs Below -->
 <table width="100%" style="border-collapse: collapse;">
   <!-- Snake Graph -->
@@ -113,6 +83,37 @@
     </td>
   </tr>
 </table>
+
+<table>
+<tr>
+    <!-- LEFT COLUMN -->
+    <td width="50%" valign="top" style="padding-right: 10px;">
+      <!-- GitHub General Stats -->
+      <img 
+        src="https://github-stats-extended.vercel.app/api?username=md-asharaf&show_icons=true&count_private=true&theme=tokyonight&border_color=6E57F7&bg_color=0D1117&title_color=6E57F7&icon_color=F85D7F&include_all_commits=true&hide_border=false" 
+        style="width: 100%; margin-bottom: 15px;"
+      />
+      <br />
+      <!-- GitHub Top Languages -->
+      <img 
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-asharaf&layout=compact&theme=tokyonight&border_color=6E57F7&bg_color=0D1117&title_color=6E57F7&hide=html,css&langs_count=6" 
+        alt="Md Asharaf's Top Languages"
+        style="width: 100%;"
+      />
+    </td>
+    <!-- RIGHT COLUMN (Full Height) -->
+    <td width="50%" valign="center" style="padding-left: 10px;">
+      <!-- LeetCode Stats -->
+      <img 
+        src="https://leetcard.jacoblin.cool/md-asharaf?theme=dark&font=Fira%20Code&ext=contest" 
+        alt="Md Asharaf's LeetCode Stats"
+        style="width: 100%; height: auto;"
+      />
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
