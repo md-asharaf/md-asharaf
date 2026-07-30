@@ -18,7 +18,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 &nbsp;Full Stack Developer building production-grade web apps
-- 🌱 &nbsp;Currently diving deep into **System Design**
+- 🌱 &nbsp;Currently diving deep into **System Design** and **AI Agents**
 - 💬 &nbsp;Ask me about **MERN, Spring Boot, Microservices, AWS, Docker**
 
 ---
