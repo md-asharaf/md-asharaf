@@ -80,7 +80,6 @@
 ![WebStorm](https://img.shields.io/badge/webstorm-143055?style=for-the-badge&logo=webstorm&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143055?style=for-the-badge&logo=pycharm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
