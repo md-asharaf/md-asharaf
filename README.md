@@ -5,7 +5,7 @@
 <br>
 
 <p>
-  <a href="https://asharaf.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-asharaf.me-6E57F7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://asharaf.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-asharaf.tech-6E57F7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:mdasharaf.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-mdasharaf.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/md-asharaf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-md--asharaf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/md-asharaf" target="_blank"><img src="https://img.shields.io/badge/LeetCode-md--asharaf-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
